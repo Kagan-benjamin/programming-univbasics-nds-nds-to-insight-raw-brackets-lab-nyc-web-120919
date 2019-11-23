@@ -8,4 +8,5 @@ def directors_totals(nds)
   while director_index < nds.length do
     director_name = nds[director_index][:name]
     result[director_name] = 0 
+    movie_index = 0 
 end
