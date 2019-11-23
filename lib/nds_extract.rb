@@ -5,8 +5,7 @@ def directors_totals(nds)
   pp nds 
   
  
-  result = {
-  }
+  result = {}
  
   nil
 end
