@@ -9,4 +9,6 @@ def directors_totals(nds)
     director_name = nds[director_index][:name]
     result[director_name] = 0 
     movie_index = 0 
+    
+    while 
 end
